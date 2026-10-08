@@ -1,0 +1,4 @@
+wechatauto-replica>=1.2.5.1
+requests>=2.31.0
+uiautomation>=2.0.18
+ttkbootstrap>=2.2.3

@@ -1,0 +1,84 @@
+2026-10-08 13:17:40.495 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:17:42.537 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:17:44.574 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:17:46.633 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:17:48.673 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:17:50.745 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:17:52.773 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:17:54.819 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:17:56.860 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:17:58.896 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:00.930 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:02.965 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:04.988 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:07.017 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:09.046 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:11.074 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:13.096 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:15.151 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:17.194 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:19.246 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:21.284 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:23.319 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:25.370 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:27.412 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:29.460 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:31.506 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:33.582 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:35.611 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:37.662 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:39.715 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:41.769 __init__.py[137] _get_runtimeid -> Find Control Timeout(2.0s): {Name: '发送(S)', ControlType: ButtonControl}
+2026-10-08 13:18:43.897 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:18:45.975 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:18:48.047 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:18:50.188 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:18:52.209 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:18:54.327 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:18:56.360 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:18:58.411 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:00.498 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:02.649 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:04.695 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:06.798 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:08.876 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:10.958 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:13.081 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:15.222 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:17.344 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:19.467 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:21.552 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:23.648 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:25.744 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:27.849 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:29.944 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:32.037 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:34.116 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:36.198 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:38.322 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:40.419 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:42.499 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:44.618 <string>[14] walk -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:46.731 __init__.py[137] _get_runtimeid -> Find Control Timeout(2.0s): {Name: '搜一搜', ControlType: ButtonControl}
+2026-10-08 13:19:48.770 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:19:50.863 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:19:52.959 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:19:55.042 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:19:57.130 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:19:59.222 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:01.320 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:03.399 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:05.488 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:07.583 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:09.675 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:11.765 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:13.854 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:15.958 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:18.077 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:20.171 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:22.255 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:24.335 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:26.435 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:28.521 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:30.609 <string>[14] walk -> Find Control Timeout(2.0s): {ClassName: 'mmui::MainTabBar', AutomationId: 'main_tabbar', ControlType: ToolBarControl}
+2026-10-08 13:20:32.704 <string>[14] walk -> 

@@ -1,0 +1,6 @@
+{
+  "provider": "local",
+  "api_base": "http://127.0.0.1:8081/v1",
+  "api_model": "",
+  "api_key": ""
+}
